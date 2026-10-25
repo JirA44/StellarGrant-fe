@@ -1,3 +1,13 @@
+## Français
+
+Interface frontend du protocole StellarGrants pour gérer des subventions par jalons sur Soroban. Exemple : parcourir les parcours de création et de suivi de subventions avec un backend de test.
+
+## English
+
+Frontend for the StellarGrants protocol for managing milestone-based grants on Soroban. Example: explore grant creation and tracking flows with a test backend.
+
+---
+
 # StellarGrants Protocol
 
 Monorepo for **milestone-based grants on Stellar (Soroban)**: on-chain escrow, milestones, and voting, with a Next.js app, optional Express API, and a TypeScript client SDK.
